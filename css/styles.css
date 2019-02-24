@@ -178,11 +178,11 @@ body .wrap .controls div.bottomright {
   bottom: 0;
 }
 
-/*body .wrap .controls div.bottomright:before {
+body .wrap .controls div.bottomright:before {
   content: 'Bottom Right';
 }
 
-body .wrap .controls div.bottomleft {
+/*body .wrap .controls div.bottomleft {
   left: 0;
   bottom: 0;
 }
