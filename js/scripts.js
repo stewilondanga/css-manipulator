@@ -51,12 +51,12 @@ bottomLeft2.addEventListener('input', e => {
   Blob.style.setProperty('--bottomLeft2', bottomLeft2.value);
 });
 
-/*const blobHeight = document.querySelector('#height');
+const blobHeight = document.querySelector('#height');
 blobHeight.addEventListener('input', e => {
   Blob.style.setProperty('--blobHeight', blobHeight.value);
 });
 
-const blobWidth = document.querySelector('#width');
+/*const blobWidth = document.querySelector('#width');
 blobWidth.addEventListener('input', e => {
   Blob.style.setProperty('--blobWidth', blobWidth.value);
 });
