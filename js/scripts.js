@@ -11,12 +11,12 @@ var navigate = (function() {
 
 const Blob = document.querySelector('#blob');
 
-/*const topLeft = document.querySelector('#topLeft');
+const topLeft = document.querySelector('#topLeft');
 topLeft.addEventListener('input', e => {
   Blob.style.setProperty('--topLeft', topLeft.value);
 });
 
-const topLeft2 = document.querySelector('#topLeft2');
+/*const topLeft2 = document.querySelector('#topLeft2');
 topLeft2.addEventListener('input', e => {
   Blob.style.setProperty('--topLeft2', topLeft2.value);
 });
