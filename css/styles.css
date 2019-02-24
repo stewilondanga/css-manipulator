@@ -160,11 +160,11 @@ body .wrap .controls div:before {
   top: -25px;
 }
 
-/*body .wrap .controls div.topleft:before {
+body .wrap .controls div.topleft:before {
   content: 'Top Left';
 }
 
-body .wrap .controls div.topright {
+/*body .wrap .controls div.topright {
   right: 0;
   top: 0;
 }
