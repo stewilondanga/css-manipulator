@@ -66,13 +66,13 @@ body .wrap .controls div.height:before {
   content: 'Height';
 }
 
-/*body .wrap .controls div.width {
+body .wrap .controls div.width {
   width: calc(100% + 20px);
   bottom: -50px;
   left: -10px;
 }
 
-body .wrap .controls div.width:before {
+/*body .wrap .controls div.width:before {
   content: 'Width';
   top: 30px;
 }
