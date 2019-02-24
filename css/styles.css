@@ -84,11 +84,11 @@ body .wrap .controls div input[type=range] {
   margin-bottom: 10px;
 }
 
-/*body .wrap .controls div input[type=range]::-webkit-slider-thumb {
+body .wrap .controls div input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none;
 }
 
-body .wrap .controls div input[type=range]:focus {
+/*body .wrap .controls div input[type=range]:focus {
   outline: none;
 }
 
