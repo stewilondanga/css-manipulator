@@ -72,12 +72,12 @@ body .wrap .controls div.width {
   left: -10px;
 }
 
-/*body .wrap .controls div.width:before {
+body .wrap .controls div.width:before {
   content: 'Width';
   top: 30px;
 }
 
-body .wrap .controls div input[type=range] {
+/*body .wrap .controls div input[type=range] {
   -webkit-appearance: none;
   width: 100%;
   background: transparent;
