@@ -56,12 +56,12 @@ blobHeight.addEventListener('input', e => {
   Blob.style.setProperty('--blobHeight', blobHeight.value);
 });
 
-/*const blobWidth = document.querySelector('#width');
+const blobWidth = document.querySelector('#width');
 blobWidth.addEventListener('input', e => {
   Blob.style.setProperty('--blobWidth', blobWidth.value);
 });
 
-
+/*
 $( '.radius' ).change(function() {
   var radius = $("#blob").css( "border-radius" );
   $( "#result" ).html( "Border Radius: <span style='color:" +
