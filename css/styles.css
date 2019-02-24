@@ -213,12 +213,12 @@ body .wrap #blob {
   border-radius: calc(1px * var(--topLeft)) calc(1px * var(--topRight)) calc(1px * var(--bottomRight)) calc(1px * var(--bottomLeft))/calc(1px * var(--topLeft2)) calc(1px * var(--topRight2)) calc(1px * var(--bottomRight2)) calc(1px * var(--bottomLeft2));
 }
 
-/*.containers {
+.containers {
   width: 520px;
   margin: 20px auto;
 }
 
-#contact h1 {
+/*#contact h1 {
   font-family: helvetica;
   font-weight: normal;
   text-align: center;
