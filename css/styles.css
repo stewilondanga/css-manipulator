@@ -169,11 +169,11 @@ body .wrap .controls div.topright {
   top: 0;
 }
 
-/*body .wrap .controls div.topright:before {
+body .wrap .controls div.topright:before {
   content: "Top Right";
 }
 
-body .wrap .controls div.bottomright {
+/*body .wrap .controls div.bottomright {
   right: 0;
   bottom: 0;
 }
