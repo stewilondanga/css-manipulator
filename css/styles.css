@@ -92,7 +92,7 @@ body .wrap .controls div input[type=range]:focus {
   outline: none;
 }
 
-/*body .wrap .controls div input[type=range]::-ms-track {
+body .wrap .controls div input[type=range]::-ms-track {
   width: 100%;
   cursor: pointer;
   background: transparent;
@@ -100,7 +100,7 @@ body .wrap .controls div input[type=range]:focus {
   color: transparent;
 }
 
-body .wrap .controls div input[type=range]::-webkit-slider-thumb {
+/*body .wrap .controls div input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none;
   height: 16px;
   width: 16px;
