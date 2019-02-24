@@ -16,12 +16,12 @@ topLeft.addEventListener('input', e => {
   Blob.style.setProperty('--topLeft', topLeft.value);
 });
 
-/*const topLeft2 = document.querySelector('#topLeft2');
+const topLeft2 = document.querySelector('#topLeft2');
 topLeft2.addEventListener('input', e => {
   Blob.style.setProperty('--topLeft2', topLeft2.value);
 });
 
-const topRight = document.querySelector('#topRight');
+/*const topRight = document.querySelector('#topRight');
 topRight.addEventListener('input', e => {
   Blob.style.setProperty('--topRight', topRight.value);
 });
