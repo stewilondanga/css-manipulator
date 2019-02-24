@@ -8,10 +8,10 @@ var navigate = (function() {
 })();
 
 
-/*
+
 const Blob = document.querySelector('#blob');
 
-const topLeft = document.querySelector('#topLeft');
+/*const topLeft = document.querySelector('#topLeft');
 topLeft.addEventListener('input', e => {
   Blob.style.setProperty('--topLeft', topLeft.value);
 });
