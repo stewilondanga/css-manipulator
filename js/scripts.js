@@ -36,12 +36,12 @@ bottomRight.addEventListener('input', e => {
   Blob.style.setProperty('--bottomRight', bottomRight.value);
 });
 
-/*const bottomRight2 = document.querySelector('#bottomRight2');
+const bottomRight2 = document.querySelector('#bottomRight2');
 bottomRight2.addEventListener('input', e => {
   Blob.style.setProperty('--bottomRight2', bottomRight2.value);
 });
 
-const bottomLeft = document.querySelector('#bottomLeft');
+/*const bottomLeft = document.querySelector('#bottomLeft');
 bottomLeft.addEventListener('input', e => {
   Blob.style.setProperty('--bottomLeft', bottomLeft.value);
 });
