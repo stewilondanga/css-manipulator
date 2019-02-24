@@ -187,11 +187,11 @@ body .wrap .controls div.bottomleft {
   bottom: 0;
 }
 
-/*body .wrap .controls div.bottomleft:before {
+body .wrap .controls div.bottomleft:before {
   content: 'Bottom Left';
 }
 
-body .wrap #blob {
+/*body .wrap #blob {
   --topLeft: 500;
   --topLeft2: 500;
   --topRight: 500;
