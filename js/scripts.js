@@ -31,12 +31,12 @@ topRight2.addEventListener('input', e => {
   Blob.style.setProperty('--topRight2', topRight2.value);
 });
 
-/*const bottomRight = document.querySelector('#bottomRight');
+const bottomRight = document.querySelector('#bottomRight');
 bottomRight.addEventListener('input', e => {
   Blob.style.setProperty('--bottomRight', bottomRight.value);
 });
 
-const bottomRight2 = document.querySelector('#bottomRight2');
+/*const bottomRight2 = document.querySelector('#bottomRight2');
 bottomRight2.addEventListener('input', e => {
   Blob.style.setProperty('--bottomRight2', bottomRight2.value);
 });
