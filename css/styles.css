@@ -54,7 +54,7 @@ body .wrap .controls div {
   position: absolute;
 }
 
-/*body .wrap .controls div.height {
+body .wrap .controls div.height {
   width: calc(100% + 20px);
   left: -250px;
   bottom: 190px;
@@ -62,7 +62,7 @@ body .wrap .controls div {
   transform: rotate(-90deg);
 }
 
-body .wrap .controls div.height:before {
+/*body .wrap .controls div.height:before {
   content: 'Height';
 }
 
