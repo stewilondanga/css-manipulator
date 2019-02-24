@@ -49,12 +49,12 @@ body .wrap .controls {
   top: calc(50% - 200px);
 }
 
-/*body .wrap .controls div {
+body .wrap .controls div {
   width: 150px;
   position: absolute;
 }
 
-body .wrap .controls div.height {
+/*body .wrap .controls div.height {
   width: calc(100% + 20px);
   left: -250px;
   bottom: 190px;
