@@ -173,12 +173,12 @@ body .wrap .controls div.topright:before {
   content: "Top Right";
 }
 
-/*body .wrap .controls div.bottomright {
+body .wrap .controls div.bottomright {
   right: 0;
   bottom: 0;
 }
 
-body .wrap .controls div.bottomright:before {
+/*body .wrap .controls div.bottomright:before {
   content: 'Bottom Right';
 }
 
