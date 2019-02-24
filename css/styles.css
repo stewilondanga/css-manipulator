@@ -88,11 +88,11 @@ body .wrap .controls div input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none;
 }
 
-/*body .wrap .controls div input[type=range]:focus {
+body .wrap .controls div input[type=range]:focus {
   outline: none;
 }
 
-body .wrap .controls div input[type=range]::-ms-track {
+/*body .wrap .controls div input[type=range]::-ms-track {
   width: 100%;
   cursor: pointer;
   background: transparent;
