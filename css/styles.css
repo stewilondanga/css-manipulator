@@ -150,7 +150,7 @@ body .wrap .controls div input {
   width: 100%;
 }
 
-/*body .wrap .controls div:before {
+body .wrap .controls div:before {
   color: #666;
   font-family: "Source Code Pro";
   position: absolute;
@@ -159,7 +159,7 @@ body .wrap .controls div input {
   top: -25px;
 }
 
-body .wrap .controls div.topleft:before {
+/*body .wrap .controls div.topleft:before {
   content: 'Top Left';
 }
 
