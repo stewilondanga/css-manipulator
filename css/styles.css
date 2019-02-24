@@ -41,7 +41,7 @@ body .wrap span#result {
   font-family: "Source Code Pro";
 }
 
-/*body .wrap .controls {
+body .wrap .controls {
   position: absolute;
   width: 400px;
   height: 400px;
@@ -49,7 +49,7 @@ body .wrap span#result {
   top: calc(50% - 200px);
 }
 
-body .wrap .controls div {
+/*body .wrap .controls div {
   width: 150px;
   position: absolute;
 }
