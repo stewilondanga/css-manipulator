@@ -77,14 +77,14 @@ body .wrap .controls div.width:before {
   top: 30px;
 }
 
-/*body .wrap .controls div input[type=range] {
+body .wrap .controls div input[type=range] {
   -webkit-appearance: none;
   width: 100%;
   background: transparent;
   margin-bottom: 10px;
 }
 
-body .wrap .controls div input[type=range]::-webkit-slider-thumb {
+/*body .wrap .controls div input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none;
 }
 
