@@ -30,7 +30,7 @@ body .wrap {
   background: #222;
 }
 
-/*body .wrap span#result {
+body .wrap span#result {
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -41,7 +41,7 @@ body .wrap {
   font-family: "Source Code Pro";
 }
 
-body .wrap .controls {
+/*body .wrap .controls {
   position: absolute;
   width: 400px;
   height: 400px;
