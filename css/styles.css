@@ -62,11 +62,11 @@ body .wrap .controls div.height {
   transform: rotate(-90deg);
 }
 
-/*body .wrap .controls div.height:before {
+body .wrap .controls div.height:before {
   content: 'Height';
 }
 
-body .wrap .controls div.width {
+/*body .wrap .controls div.width {
   width: calc(100% + 20px);
   bottom: -50px;
   left: -10px;
