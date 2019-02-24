@@ -110,11 +110,11 @@ body .wrap .controls div input[type=range]::-webkit-slider-thumb {
   background: #ccc;
 }
 
-/*body .wrap .controls div input[type=range]:focus::-webkit-slider-thumb:hover {
+body .wrap .controls div input[type=range]:focus::-webkit-slider-thumb:hover {
   background: #367ebd;
 }
 
-body .wrap .controls div input[type=range]::-moz-range-thumb {
+/*body .wrap .controls div input[type=range]::-moz-range-thumb {
   box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
   border: 1px solid #000000;
   height: 36px;
