@@ -61,9 +61,9 @@ blobWidth.addEventListener('input', e => {
   Blob.style.setProperty('--blobWidth', blobWidth.value);
 });
 
-/*
-$( '.radius' ).change(function() {
-  var radius = $("#blob").css( "border-radius" );
-  $( "#result" ).html( "Border Radius: <span style='color:" +
-    radius + ";'>" + radius + "</span>" );
+
+$('.radius').change(function() {
+  var radius = $("#blob").css("border-radius");
+  $("#result").html("Border Radius: <span style='color:" +
+    radius + ";'>" + radius + "</span>");
 });
