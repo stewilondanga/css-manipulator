@@ -21,7 +21,6 @@ body {
   height: 1.5em;
 }
 
-/*
 body .wrap {
   position: absolute;
   left: 0;
@@ -31,7 +30,7 @@ body .wrap {
   background: #222;
 }
 
-body .wrap span#result {
+/*body .wrap span#result {
   display: inline-block;
   width: 100%;
   text-align: center;
